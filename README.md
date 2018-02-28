@@ -49,7 +49,27 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Wireframes
+## Demo
+
+### Login
+<div style={{display: flex; flex-direction: row}}>
+	<img src="screenshots/LoginScreenShot.png" width="250" />
+	<img src="screenshots/LoginActiveScreenShot.png" width="250" />
+</div>
+
+### Register
+<div style={{display: flex; flex-direction: row}}>
+	<img src="screenshots/RegisterScreenShot.png" width="250" />
+	<img src="screenshots/RegisterActiveScreenShot.png" width="250" />
+</div>
+
+### Messages
+
+### Home
+
+### Todo's
+
+### Settings 
 
 ![Alt text](/Wireframes/1.jpg?raw=true "1")
 ![Alt text](/Wireframes/2.jpg?raw=true "2")
@@ -65,7 +85,7 @@ The following **additional** features are implemented:
 
 Here is the updated GIF (3/29):
 
-![animatedGIF](roomySpirint1.gif)
+**Need to add**
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
