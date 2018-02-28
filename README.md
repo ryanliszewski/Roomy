@@ -52,13 +52,13 @@ The following **additional** features are implemented:
 ## Demo
 
 ### Login
-<div style={{display: flex; flex-direction: row;  background: ##BEBEBE}}>
+<div style={{display: flex; flex-direction: row;  background: #BEBEBE}}>
 	<img src="screenshots/LoginScreenShot.png" width="250" />
 	<img src="screenshots/LoginActiveScreenShot.png" width="250" />
 </div>
 
 ### Register
-<div style={{display: flex; flex-direction: row; background: ##BEBEBE}}>
+<div style={{display: flex; flex-direction: row; background: #BEBEBE}}>
 	<img src="screenshots/RegisterScreenShot.png" width="250" />
 	<img src="screenshots/RegisterActiveScreenShot.png" width="250" />
 </div>
